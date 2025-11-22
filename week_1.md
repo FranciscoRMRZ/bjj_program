@@ -300,22 +300,85 @@ Repeat for 3 rounds.
 
 Recover guard consistently against controlled but resisting partner.
 
----
+📅 Day 5 — Live Activities Day (No Full Sparring)
 
-# ✔️ Summary (Simple Mat-Side Version)
+Purpose: Build timing, reactions, and intuitive escapes without rolling hard.
+These are live but constrained games that use problem-solving instead of combat.
 
-| Day   | Primary Movement   | Application              | Goal                            |
-| ----- | ------------------ | ------------------------ | ------------------------------- |
-| **1** | Shrimp             | Guard recovery           | Get knee inside mount pressure  |
-| **2** | Bridge             | Mount escapes            | Break balance + turn hips       |
-| **3** | Technical Stand-Up | Regain distance          | Stand up safely under pressure  |
-| **4** | Integration        | Complete escape sequence | Shrimp + bridge → recover guard |
+1. Positional Reaction Games (5–6 rounds, 1 min each)
+a) Mount Escape Game
 
----
+Partner mounts with 60–70% realism
 
-If you want, I can also produce:
-📌 A **coach card** (1-page printable)
-📌 A **poster-style version** for your gym
-📌 A **solo-drill-only** version for home practice
+Bottom uses shrimp + bridge only
 
-Just tell me which one you prefer.
+Top only stabilizes, no submissions
+Goal: escape to guard without strength.
+
+b) Guard Recovery Chase
+
+Top tries to pass slowly
+
+Bottom uses frames, shrimp, reverse-shrimp
+Goal: keep hips facing the passer.
+
+2. Stand-Up Reaction Game
+
+Starting seated
+
+Partner tries to close distance lightly
+
+You must technical stand-up with clean frames
+
+No takedowns, just pressure + reaction
+
+3. Direction Calling Drill (Coach or Partner)
+
+Coach/partner yells:
+
+“Bridge!”
+
+“Shrimp!”
+
+“Invert!”
+
+“Stand-Up!”
+Each command means immediate movement from wherever you are.
+
+This builds automatic responses — essential at white/blue belt.
+
+4. Low-Intensity Movement-Only Rolling (30–40% effort)
+
+Rules:
+
+No submissions
+
+No strength
+
+Only frames, hip movement, base changes, guard recovery
+
+Reset on dominant positions
+
+This is the closest thing to sparring without the chaos.
+
+5. Win Conditions for Day 5
+
+Stay calm under pressure
+
+Use movements instinctively
+
+Recover guard without panic
+
+Maintain frames even when tired
+
+✔️ Final Weekly Summary Table
+Day	Focus	Activity Type	Main Goal
+1	Shrimp	Technical + partner drills	Guard recovery mechanics
+2	Bridge	Technical + partner drills	Create space + break balance
+3	Technical Stand-Up	Pressure drills	Build base + controlled distance
+4	Integration	Functional escape circuits	Complete escape → guard sequence
+5	Live Activities	Timed games & movement rolling	Apply mechanics under real resistance
+
+
+day 5
+https://www.youtube.com/watch?v=0pzF4_ltfJQ
